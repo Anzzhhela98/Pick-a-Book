@@ -1,0 +1,15 @@
+﻿@model BookStore.Web.ViewModels.Author.RegistarAuthorModel
+
+<form method="post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+    <label asp-for="Registrant"></label>
+    <input asp-for="Registrant" class="form-control" />
+    <span asp-validation-for="Registrant" class="text-danger"></span>
+    </div>
+    <input type="submit" />
+</form>
