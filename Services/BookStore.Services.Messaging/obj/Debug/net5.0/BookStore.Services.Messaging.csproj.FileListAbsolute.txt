@@ -1,0 +1,24 @@
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\bin\Debug\net5.0\BookStore.Services.Messaging.deps.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\bin\Debug\net5.0\BookStore.Services.Messaging.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\bin\Debug\net5.0\ref\BookStore.Services.Messaging.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\bin\Debug\net5.0\BookStore.Services.Messaging.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.csproj.AssemblyReference.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.AssemblyInfo.cs
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\ref\BookStore.Services.Messaging.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\bin\Debug\net5.0\BookStore.Services.Messaging.deps.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\bin\Debug\net5.0\BookStore.Services.Messaging.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\bin\Debug\net5.0\ref\BookStore.Services.Messaging.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\bin\Debug\net5.0\BookStore.Services.Messaging.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.csproj.AssemblyReference.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.AssemblyInfo.cs
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\ref\BookStore.Services.Messaging.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Messaging\obj\Debug\net5.0\BookStore.Services.Messaging.pdb

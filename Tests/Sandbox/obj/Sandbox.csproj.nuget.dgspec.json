@@ -1,0 +1,902 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Tests\\Sandbox\\Sandbox.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\BookStore.Common\\BookStore.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\BookStore.Common\\BookStore.Common.csproj",
+        "projectName": "BookStore.Common",
+        "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\BookStore.Common\\BookStore.Common.csproj",
+        "packagesPath": "C:\\Users\\anzzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\BookStore.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anzzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\BookStore.Data.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\BookStore.Data.Common.csproj",
+        "projectName": "BookStore.Data.Common",
+        "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\BookStore.Data.Common.csproj",
+        "packagesPath": "C:\\Users\\anzzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anzzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Models\\BookStore.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Models\\BookStore.Data.Models.csproj",
+        "projectName": "BookStore.Data.Models",
+        "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Models\\BookStore.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\anzzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anzzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\BookStore.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\BookStore.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data\\BookStore.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data\\BookStore.Data.csproj",
+        "projectName": "BookStore.Data",
+        "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data\\BookStore.Data.csproj",
+        "packagesPath": "C:\\Users\\anzzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anzzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\BookStore.Common\\BookStore.Common.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\BookStore.Common\\BookStore.Common.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\BookStore.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\BookStore.Data.Common.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Models\\BookStore.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Models\\BookStore.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Data\\BookStore.Services.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Data\\BookStore.Services.Data.csproj",
+        "projectName": "BookStore.Services.Data",
+        "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Data\\BookStore.Services.Data.csproj",
+        "packagesPath": "C:\\Users\\anzzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anzzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\BookStore.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\BookStore.Data.Common.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Models\\BookStore.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Models\\BookStore.Data.Models.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data\\BookStore.Data.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data\\BookStore.Data.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Mapping\\BookStore.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Mapping\\BookStore.Services.Mapping.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Web\\BookStore.Web.ViewModels\\BookStore.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Web\\BookStore.Web.ViewModels\\BookStore.Web.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Mapping\\BookStore.Services.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Mapping\\BookStore.Services.Mapping.csproj",
+        "projectName": "BookStore.Services.Mapping",
+        "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Mapping\\BookStore.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\anzzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anzzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Messaging\\BookStore.Services.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Messaging\\BookStore.Services.Messaging.csproj",
+        "projectName": "BookStore.Services.Messaging",
+        "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Messaging\\BookStore.Services.Messaging.csproj",
+        "packagesPath": "C:\\Users\\anzzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anzzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Sendgrid": {
+              "target": "Package",
+              "version": "[9.23.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services\\BookStore.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services\\BookStore.Services.csproj",
+        "projectName": "BookStore.Services",
+        "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services\\BookStore.Services.csproj",
+        "packagesPath": "C:\\Users\\anzzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anzzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Tests\\Sandbox\\Sandbox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Tests\\Sandbox\\Sandbox.csproj",
+        "projectName": "Sandbox",
+        "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Tests\\Sandbox\\Sandbox.csproj",
+        "packagesPath": "C:\\Users\\anzzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Tests\\Sandbox\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anzzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\BookStore.Common\\BookStore.Common.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\BookStore.Common\\BookStore.Common.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\BookStore.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\BookStore.Data.Common.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Models\\BookStore.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Models\\BookStore.Data.Models.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data\\BookStore.Data.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data\\BookStore.Data.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Data\\BookStore.Services.Data.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Data\\BookStore.Services.Data.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Mapping\\BookStore.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Mapping\\BookStore.Services.Mapping.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Messaging\\BookStore.Services.Messaging.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Messaging\\BookStore.Services.Messaging.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services\\BookStore.Services.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services\\BookStore.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Web\\BookStore.Web.ViewModels\\BookStore.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Web\\BookStore.Web.ViewModels\\BookStore.Web.ViewModels.csproj",
+        "projectName": "BookStore.Web.ViewModels",
+        "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Web\\BookStore.Web.ViewModels\\BookStore.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\anzzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Web\\BookStore.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anzzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Models\\BookStore.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Models\\BookStore.Data.Models.csproj"
+              },
+              "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Mapping\\BookStore.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Services.Mapping\\BookStore.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2QCSLGOiMOuFoq26A9fhq1wg3mVWqX9YDYFqgKbEaaONi60RCdFJzBXl2fcREz06qfJhxGI/TUA/cj9UdwBttg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Web\\BookStore.Web.Infrastructure\\BookStore.Web.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anzzh\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\anzzh\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\anzzh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\anzzh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\anzzh\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

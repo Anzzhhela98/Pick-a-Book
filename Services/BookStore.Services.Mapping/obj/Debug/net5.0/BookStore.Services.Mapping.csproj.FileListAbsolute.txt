@@ -1,0 +1,23 @@
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\bin\Debug\net5.0\BookStore.Services.Mapping.deps.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\bin\Debug\net5.0\BookStore.Services.Mapping.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\bin\Debug\net5.0\ref\BookStore.Services.Mapping.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\bin\Debug\net5.0\BookStore.Services.Mapping.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.csproj.AssemblyReference.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.AssemblyInfo.cs
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\ref\BookStore.Services.Mapping.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\bin\Debug\net5.0\BookStore.Services.Mapping.deps.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\bin\Debug\net5.0\BookStore.Services.Mapping.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\bin\Debug\net5.0\ref\BookStore.Services.Mapping.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\bin\Debug\net5.0\BookStore.Services.Mapping.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.AssemblyInfo.cs
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\ref\BookStore.Services.Mapping.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.pdb

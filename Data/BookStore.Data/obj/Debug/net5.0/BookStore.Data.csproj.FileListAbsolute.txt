@@ -1,0 +1,46 @@
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\appsettings.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.deps.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.runtimeconfig.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.runtimeconfig.dev.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\ref\BookStore.Data.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Common.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.Common.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.Models.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Common.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.Common.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.Models.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.csproj.AssemblyReference.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.AssemblyInfoInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.AssemblyInfo.cs
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.csproj.CopyComplete
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\ref\BookStore.Data.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.genruntimeconfig.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\appsettings.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.deps.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.runtimeconfig.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.runtimeconfig.dev.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\ref\BookStore.Data.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Common.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.Common.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.Models.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Common.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.Common.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\bin\Debug\net5.0\BookStore.Data.Models.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.csproj.AssemblyReference.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.AssemblyInfoInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.AssemblyInfo.cs
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.csproj.CopyComplete
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\ref\BookStore.Data.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Data\BookStore.Data\obj\Debug\net5.0\BookStore.Data.genruntimeconfig.cache

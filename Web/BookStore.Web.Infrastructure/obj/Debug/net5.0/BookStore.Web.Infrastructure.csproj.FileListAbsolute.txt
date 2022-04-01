@@ -1,0 +1,24 @@
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\bin\Debug\net5.0\BookStore.Web.Infrastructure.deps.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\bin\Debug\net5.0\BookStore.Web.Infrastructure.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\bin\Debug\net5.0\ref\BookStore.Web.Infrastructure.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\bin\Debug\net5.0\BookStore.Web.Infrastructure.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\ref\BookStore.Web.Infrastructure.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\bin\Debug\net5.0\BookStore.Web.Infrastructure.deps.json
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\bin\Debug\net5.0\BookStore.Web.Infrastructure.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\bin\Debug\net5.0\ref\BookStore.Web.Infrastructure.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\bin\Debug\net5.0\BookStore.Web.Infrastructure.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\ref\BookStore.Web.Infrastructure.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Web\BookStore.Web.Infrastructure\obj\Debug\net5.0\BookStore.Web.Infrastructure.pdb

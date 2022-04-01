@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZD7LwMMVyYliu4vPsgx2KPIkxexxjFTH9Cge1/4jbT9jd7JXkUigwZVfmJtOmCXCbG6jxv7+1RipfTxwdkdBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Data\\BookStore.Data.Common\\BookStore.Data.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anzzh\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\anzzh\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\anzzh\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\anzzh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\anzzh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\anzzh\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
