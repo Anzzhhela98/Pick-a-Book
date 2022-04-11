@@ -1,5 +1,6 @@
 ﻿namespace BookStore.Web
 {
+    using System.Configuration;
     using System.Reflection;
 
     using BookStore.Data;
@@ -11,9 +12,13 @@
     using BookStore.Services.Data;
     using BookStore.Services.Data.Author;
     using BookStore.Services.Data.Book;
+    using BookStore.Services.Data.Contact;
     using BookStore.Services.Data.Location;
+    using BookStore.Services.Data.Order;
+    using BookStore.Services.Data.Payment;
     using BookStore.Services.Mapping;
     using BookStore.Services.Messaging;
+    using BookStore.Web.Data;
     using BookStore.Web.ViewModels;
 
     using Microsoft.AspNetCore.Builder;
@@ -24,6 +29,9 @@
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.Extensions.Hosting;
+    using Stripe;
+
+    using OrdersService = Services.Data.Order.OrdersService;
 
     public class Startup
     {
@@ -73,6 +81,11 @@
             services.AddTransient<IShowLocationService, ShowLocationService>();
             services.AddTransient<IShowLocationByIdService, ShowLocationByIdService>();
             services.AddTransient<IBooksService, BooksService>();
+            services.AddTransient<IContactsService, ContactsService>();
+            services.AddTransient<IPaymentService, PaymentService>();
+            services.AddTransient<IOrdersService, OrdersService>();
+
+            services.Configure<StripeSettings>(this.configuration.GetSection("Stipe"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -88,6 +101,8 @@
                 new ApplicationDbContextSeeder().SeedAsync(dbContext, serviceScope.ServiceProvider).GetAwaiter().GetResult();
             }
 
+            StripeConfiguration.SetApiKey(this.configuration.GetSection("Stripe")["Secretkey"]);
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -98,6 +113,16 @@
                 app.UseExceptionHandler("/Home/Error");
                 app.UseHsts();
             }
+
+            app.Use(async (context, next) =>
+            {
+                await next();
+                if (context.Response.StatusCode == 404)
+                {
+                    context.Request.Path = "/NotFound";
+                    await next();
+                }
+            });
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();

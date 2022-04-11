@@ -14,7 +14,6 @@ C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Servi
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services\bin\Debug\net5.0\BookStore.Services.dll
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services\bin\Debug\net5.0\ref\BookStore.Services.dll
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services\bin\Debug\net5.0\BookStore.Services.pdb
-C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services\obj\Debug\net5.0\BookStore.Services.csproj.AssemblyReference.cache
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services\obj\Debug\net5.0\BookStore.Services.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services\obj\Debug\net5.0\BookStore.Services.AssemblyInfoInputs.cache
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services\obj\Debug\net5.0\BookStore.Services.AssemblyInfo.cs
@@ -22,3 +21,4 @@ C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Servi
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services\obj\Debug\net5.0\BookStore.Services.dll
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services\obj\Debug\net5.0\ref\BookStore.Services.dll
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services\obj\Debug\net5.0\BookStore.Services.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services\obj\Debug\net5.0\BookStore.Services.csproj.AssemblyReference.cache

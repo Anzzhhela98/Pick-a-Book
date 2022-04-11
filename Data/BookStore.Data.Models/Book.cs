@@ -3,10 +3,10 @@
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
 
-    public class Book
-    {
-        public int Id { get; set; }
+    using BookStore.Data.Common.Models;
 
+    public class Book : BaseDeletableModel<int>
+    {
         [Required]
         [MaxLength(100)]
         public string Title { get; set; }
@@ -27,7 +27,7 @@
         public decimal Price { get; set; }
 
         [Required]
-        [MaxLength(3000)]
+
         public int Pages { get; set; }
 
         [Required]
@@ -49,7 +49,6 @@
         public string UniqueIdBook { get; set; }
 
         [Required]
-        [MinLength(18)]
         [MaxLength(18)]
         public string ISBN { get; set; }
 

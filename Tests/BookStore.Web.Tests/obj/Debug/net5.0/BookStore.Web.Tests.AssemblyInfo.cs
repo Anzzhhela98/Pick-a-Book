@@ -28,7 +28,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("BookStore.Services.Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=nu" +
     "ll", "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Services\\BookStore.Servic" +
     "es.Messaging", "BookStore.Services.Messaging.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("BookStore.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Web\\BookStore.Web", "BookStore.Web.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("BookStore.Web", "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Web\\BookStore.Web", "BookStore.Web.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("BookStore.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=nu" +
     "ll", "C:\\Users\\anzzh\\OneDrive\\Desktop\\CSharp-Web\\ASP.NET Core\\Web\\BookStore.Web.Infrast" +
     "ructure", "BookStore.Web.Infrastructure.csproj", "0")]

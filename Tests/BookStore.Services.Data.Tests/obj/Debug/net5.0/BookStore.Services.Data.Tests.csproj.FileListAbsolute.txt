@@ -176,3 +176,4 @@ C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\BookStore.Services
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\BookStore.Services.Data.Tests\obj\Debug\net5.0\ref\BookStore.Services.Data.Tests.dll
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\BookStore.Services.Data.Tests\obj\Debug\net5.0\BookStore.Services.Data.Tests.pdb
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\BookStore.Services.Data.Tests\obj\Debug\net5.0\BookStore.Services.Data.Tests.genruntimeconfig.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\BookStore.Services.Data.Tests\bin\Debug\net5.0\Stripe.net.dll

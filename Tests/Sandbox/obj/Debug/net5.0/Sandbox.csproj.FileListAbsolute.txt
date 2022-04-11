@@ -76,3 +76,4 @@ C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\Sandbox\obj\Debug\
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\Sandbox\obj\Debug\net5.0\ref\Sandbox.dll
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\Sandbox\obj\Debug\net5.0\Sandbox.pdb
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\Sandbox\obj\Debug\net5.0\Sandbox.genruntimeconfig.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\Sandbox\bin\Debug\net5.0\Stripe.net.dll

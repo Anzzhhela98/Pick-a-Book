@@ -2,7 +2,7 @@
 {
     using System.Collections.Generic;
 
-    using BookStore.Web.ViewModels.Book;
+    using BookStore.Web.ViewModels.Books;
     using BookStore.Web.ViewModels.Home;
 
     public interface IBooksService
@@ -20,5 +20,11 @@
         List<BookViewModel> GetAll();
 
         List<BookViewModel> GetPromotionalBooks();
+
+        SingleBookViewModel GetById(int id);
+
+        BuyViewModel Buy(int id);
+
+        public bool EnoughQuantity(int bookId, int orderQuantity);
     }
 }

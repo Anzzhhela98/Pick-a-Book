@@ -5,7 +5,7 @@
 
     using BookStore.Data.Models;
     using BookStore.Services.Data.Book;
-    using BookStore.Web.ViewModels.Book;
+    using BookStore.Web.ViewModels.Books;
     using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Http;
     using Microsoft.AspNetCore.Identity;
@@ -26,35 +26,37 @@
             this.booksService = booksService;
         }
 
-        [Authorize]
-        public IActionResult Create()
-        {
-            var userId = this.httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value;
+        //[HttpGet]
+        //[Authorize]
+        //public IActionResult Create()
+        //{
+        //    var userId = this.httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value;
 
-            var isAuthorizedToCreateBook = this.authorizedToCreateBook.IsAuthorizedToCreateBook(userId);
+        //    var isAuthorizedToCreateBook = this.authorizedToCreateBook.IsAuthorizedToCreateBook(userId);
 
-            if (!isAuthorizedToCreateBook)
-            {
-                return this.Redirect("/Author/RegistarAuthor");
-            }
+        //    if (!isAuthorizedToCreateBook)
+        //    {
+        //        return this.Redirect("/Author/RegistarAuthor");
+        //    }
 
-            return this.View();
-        }
+        //    return this.View();
+        //}
 
-        [HttpPost]
-        [Authorize]
-        public IActionResult Create(CreateBookModel model)
-        {
-            if (!this.ModelState.IsValid)
-            {
-                return this.View();
-            }
+        //[HttpPost]
+        //[Authorize]
+        //public IActionResult Create(CreateBookModel model)
+        //{
+        //    if (!this.ModelState.IsValid)
+        //    {
+        //        return this.View(model);
+        //    }
 
-            this.booksService.CreateBook(model);
+        //    this.booksService.CreateBook(model);
 
-            return this.Redirect("/");
-        }
+        //    return this.Redirect("/");
+        //}
 
+        [HttpGet]
         public IActionResult Promotional(int id = 1)
         {
             const int itemsPerPage = 4;
@@ -66,10 +68,16 @@
                 BooksCount = this.booksService.GetPromotionalBooksCount(),
                 Books = this.booksService.GetAllPromotional(id, itemsPerPage),
             };
-            ;
+
+            if (books == null)
+            {
+                return this.Redirect("~/PageNotFount");
+            }
+
             return this.View(books);
         }
 
+        [HttpGet]
         public IActionResult All(int id = 1)
         {
             const int itemsPerPage = 4;
@@ -79,15 +87,42 @@
                 ItemsPerPage = itemsPerPage,
                 PageNumber = id,
                 BooksCount = this.booksService.GetCount(),
-                Books = this.booksService.GetAll(id,itemsPerPage),
+                Books = this.booksService.GetAll(id, itemsPerPage),
             };
-            ;
+
+            if (books.Books.Count() == 0)
+            {
+                return this.Redirect("~/PageNotFount");
+            }
+
             return this.View(books);
         }
 
-        public IActionResult GetById()
+        [HttpGet]
+        public IActionResult GetById(int id)
         {
-            return this.View();
+            var book = this.booksService.GetById(id);
+
+            if (book == null)
+            {
+                return this.Redirect("~/PageNotFound");
+            }
+
+            return this.View(book);
+        }
+
+        [HttpGet]
+        public IActionResult Buy(int id)
+        {
+            if (this.User.Identity.IsAuthenticated)
+            {
+                //var userId = this.httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value;
+                var book = this.booksService.Buy(id);
+                ;
+                return this.View(book);
+            }
+
+            return this.Redirect("/Identity/Account/Login");
         }
     }
 }

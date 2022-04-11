@@ -410,6 +410,10 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[39.103.0, )"
+            },
             "StyleCop.Analyzers": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers",
               "suppressParent": "All",

@@ -7,7 +7,8 @@
 
     using BookStore.Data;
     using BookStore.Data.Models;
-    using BookStore.Web.ViewModels.Book;
+    using BookStore.Services.Mapping;
+    using BookStore.Web.ViewModels.Books;
     using BookStore.Web.ViewModels.Home;
     using Microsoft.AspNetCore.Http;
 
@@ -89,6 +90,7 @@
         public IEnumerable<BookInListModel> GetAll(int page, int itemsPerPage = 4)
         {
             var book = this.db.Books
+                .Where(x => x.IsDeleted == false)
                   .Select(x => new BookInListModel
                   {
                       Price = x.Price.ToString(),
@@ -128,6 +130,7 @@
         public List<BookViewModel> GetAll()
         {
             var book = this.db.Books
+                .Where(x => x.IsDeleted == false)
                     .Select(x => new BookViewModel
                     {
                         Price = x.Price.ToString(),
@@ -136,6 +139,8 @@
                         ImageUrl = this.db.Images.Where(i => i.Id == x.ImageId).Select(x => x.ImageUrl).FirstOrDefault(),
                         Id = x.Id,
                     }).ToList();
+
+
 
             return book;
         }
@@ -166,6 +171,34 @@
                     .ToList();
 
             return book;
+        }
+
+        public SingleBookViewModel GetById(int id)
+        {
+            var book = this.db.Books.Where(x => x.Id == id).To<SingleBookViewModel>().FirstOrDefault();
+
+            return book;
+        }
+
+        public BuyViewModel Buy(int id)
+        {
+            var book = this.db.Books.Where(x => x.Id == id).To<BuyViewModel>().FirstOrDefault();
+            return book;
+        }
+
+        public bool EnoughQuantity(int bookId, int orderQuantity)
+        {
+            var book = this.db.Books.FirstOrDefault(x => x.Id == bookId);
+
+            if (book.Quantity >= orderQuantity)
+            {
+                book.Quantity -= orderQuantity;
+                this.db.SaveChanges();
+
+                return true;
+            }
+
+            return false;
         }
     }
 }

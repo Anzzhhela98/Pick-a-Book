@@ -536,3 +536,5 @@ C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\BookStore.Web.Test
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\BookStore.Web.Tests\obj\Debug\net5.0\ref\BookStore.Web.Tests.dll
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\BookStore.Web.Tests\obj\Debug\net5.0\BookStore.Web.Tests.pdb
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\BookStore.Web.Tests\obj\Debug\net5.0\BookStore.Web.Tests.genruntimeconfig.cache
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\BookStore.Web.Tests\bin\Debug\net5.0\Stripe.net.dll
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Tests\BookStore.Web.Tests\obj\Debug\net5.0\BookStore.Web.Tests.MvcApplicationPartsAssemblyInfo.cs

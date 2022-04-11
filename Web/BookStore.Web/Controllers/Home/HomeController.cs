@@ -2,25 +2,21 @@
 {
     using System.Diagnostics;
 
-    using BookStore.Services.Data.Book;
     using BookStore.Web.ViewModels;
 
     using Microsoft.AspNetCore.Mvc;
 
     public class HomeController : BaseController
     {
-        private readonly IBooksService getAllBookService;
-
-        public HomeController(IBooksService getAllBookService)
-        {
-            this.getAllBookService = getAllBookService;
-        }
-
+        [HttpGet]
         public IActionResult Index()
         {
-            var books = this.getAllBookService.GetAll();
+            return this.View();
+        }
 
-            return this.View(books);
+        public IActionResult Publishing()
+        {
+            return this.View();
         }
 
         public IActionResult Privacy()
@@ -33,6 +29,12 @@
         {
             return this.View(
                 new ErrorViewModel { RequestId = Activity.Current?.Id ?? this.HttpContext.TraceIdentifier });
+        }
+
+        [Route("/NotFound")]
+        public IActionResult PageNotFound()
+        {
+            return this.View();
         }
     }
 }

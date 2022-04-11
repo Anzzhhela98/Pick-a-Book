@@ -21,3 +21,4 @@ C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Servi
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.dll
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\ref\BookStore.Services.Mapping.dll
 C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.pdb
+C:\Users\anzzh\OneDrive\Desktop\CSharp-Web\ASP.NET Core\Services\BookStore.Services.Mapping\obj\Debug\net5.0\BookStore.Services.Mapping.csproj.AssemblyReference.cache
