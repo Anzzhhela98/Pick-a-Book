@@ -45,7 +45,12 @@
       "ProjectGuid": "415fd7fa-0453-4fe1-9a29-c6e1d8b45c3d",
       "DisplayName": "BookStore.Services.Mapping",
       "ColorIndex": 7
+    },
+    "8522212f-f01e-4e20-9975-fcf5e10d71db": {
+      "ProjectGuid": "8522212f-f01e-4e20-9975-fcf5e10d71db",
+      "DisplayName": "BookStore.Services",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }

@@ -368,6 +368,9 @@ namespace BookStore.Data.Migrations
                     b.Property<DateTime>("CreatedOn")
                         .HasColumnType("datetime2");
 
+                    b.Property<DateTime?>("DeletedOn")
+                        .HasColumnType("datetime2");
+
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -375,6 +378,9 @@ namespace BookStore.Data.Migrations
                     b.Property<string>("FullName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
 
                     b.Property<DateTime>("ModifiedOn")
                         .HasColumnType("datetime2");
@@ -403,6 +409,8 @@ namespace BookStore.Data.Migrations
                     b.HasIndex("BookId");
 
                     b.HasIndex("CreatedByUserId");
+
+                    b.HasIndex("IsDeleted");
 
                     b.ToTable("Orders");
                 });
